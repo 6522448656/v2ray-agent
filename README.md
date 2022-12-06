@@ -4,17 +4,13 @@
 
 > [Thanks for non-commercial open source development authorization by JetBrains](https://www.jetbrains.com/?from=v2ray-agent)
 
-> [English Version](https://github.com/mack-a/v2ray-agent/blob/master/documents/en/README_EN.md)
-
 - [Cloudflare 优化方案](https://github.com/mack-a/v2ray-agent/blob/master/documents/optimize_V2Ray.md)
 - [流量中转](https://github.com/mack-a/v2ray-agent/blob/master/documents/traffic_relay.md)
 - [手动自建教程](https://github.com/mack-a/v2ray-agent/blob/master/documents/Cloudflare_install_manual.md)
 - [ssh入门教程](https://www.v2ray-agent.com/2020-12-16-ssh%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
 - [TG群](https://t.me/technologyshare)、[TG频道-更新通知](https://t.me/v2rayagentshare)、[博客地址](https://www.v2ray-agent.com/)
 - [公益订阅链接](https://github.com/mack-a/v2ray-agent/blob/master/documents/free_account.md)。
-- **请给个⭐支持一下**
 
-* * *
 
 # 目录
 
@@ -29,7 +25,7 @@
 
 # 1.八合一共存脚本+伪装站点
 
-- [Cloudflare入门教程](https://github.com/mack-a/v2ray-agent/blob/master/documents/cloudflare_init.md)
+- [Cloudflare入门教程](https://github.com/6522448656/v2ray-agent/blob/master/documents/cloudflare_init.md)
 
 ## 特性
 
@@ -43,12 +39,12 @@
 - 支持Netflix检测、支持DNS流媒体解锁、支持任意门解锁Netflix
 - 无需卸载即可安装、重装任意组合
 - 支持卸载时保留Nginx、tls证书。如果acme.sh申请的证书在有效的情况下，不会重新签发
-- 支持纯IPv6，[IPv6注意事项](https://github.com/mack-a/v2ray-agent/blob/master/documents/ipv6_help.md)
+- 支持纯IPv6，[IPv6注意事项](https://github.com/6522448656/v2ray-agent/blob/master/documents/ipv6_help.md)
 - 支持IPv4[入]->IPv6分流[出]
 - 支持WARP分流
 - 支持日志管理
 - 支持多端口配置
-- [支持自定义证书安装](https://github.com/mack-a/v2ray-agent/blob/master/documents/install_tls.md)
+- [支持自定义证书安装](https://github.com/6522448656/v2ray-agent/blob/master/documents/install_tls.md)
 
 ## 支持的安装类型
 
@@ -103,13 +99,8 @@
 - **如果使用gRPC通过cloudflare转发,需要在cloudflare设置允许gRPC，cloudflare Network->gRPC**
 - **gRPC目前处于测试阶段，可能对你使用的客户端不兼容，如不能使用请忽略**
 
-## [脚本使用指南](https://github.com/mack-a/v2ray-agent/blob/master/documents/how_to_use.md)、[脚本目录](https://github.com/mack-a/v2ray-agent/blob/master/documents/how_to_use.md#5脚本目录)
+## [脚本使用指南](https://github.com/6522448656/v2ray-agent/blob/master/documents/how_to_use.md)、[脚本目录](https://github.com/6522448656/v2ray-agent/blob/master/documents/how_to_use.md#5脚本目录)
 
-## 捐赠
-
-[您可以使用我的AFF进行购买VPS捐赠](https://github.com/mack-a/v2ray-agent/blob/master/documents/donation_aff.md)
-
-[支持通过虚拟币向我捐赠](https://github.com/mack-a/v2ray-agent/blob/master/documents/donation.md)
 
 ## 客户端推荐
 - Android
@@ -136,11 +127,11 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/65224
 
 # 示例图
 
-<img src="https://raw.githubusercontent.com/mack-a/v2ray-agent/master/fodder/install/install.jpg" width=700>
+<img src="https://raw.githubusercontent.com/6522448656/v2ray-agent/master/fodder/install/install.jpg" width=700>
 
 # 许可证
 
-[GPL-3.0](https://github.com/mack-a/v2ray-agent/blob/master/LICENSE)
+[GPL-3.0](https://github.com/6522448656/v2ray-agent/blob/master/LICENSE)
 
 ## Stargazers over time
 
