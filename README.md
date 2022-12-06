@@ -135,4 +135,4 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/65224
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/6522448656/v2ray-agent.svg)](https://starchart.cc/6522448656/v2ray-agent)
+[![Stargazers over time](https://starchart.cc/mack-a/v2ray-agent.svg)](https://starchart.cc/6522448656/v2ray-agent)
