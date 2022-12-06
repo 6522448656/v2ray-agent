@@ -1,7 +1,7 @@
 # v2ray-agent
 
-> Fork from mack-a (https://github.com/mack-a/v2ray-agent)
->
+> [Fork from mack-a](https://github.com/mack-a/v2ray-agent)
+
 > [感谢 JetBrains 提供的非商业开源软件开发授权](https://www.jetbrains.com/?from=v2ray-agent)
 
 > [Thanks for non-commercial open source development authorization by JetBrains](https://www.jetbrains.com/?from=v2ray-agent)
