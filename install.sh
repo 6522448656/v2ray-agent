@@ -1642,15 +1642,15 @@ initV2RayConfig() {
 		if [[ "${historyUUIDStatus}" == "y" ]]; then
 			uuid=${currentUUID}
 		else
-			uuid=$(/etc/v2ray-agent/v2ray/v2ctl uuid)
+			uuid=$(/etc/v2ray-agent/v2ray/v2ray uuid)
 		fi
 	elif [[ -z "${uuid}" ]]; then
-		uuid=$(/etc/v2ray-agent/v2ray/v2ctl uuid)
+		uuid=$(/etc/v2ray-agent/v2ray/v2ray uuid)
 	fi
 
 	if [[ -z "${uuid}" ]]; then
 		echoContent red "\n ---> uuid读取错误，重新生成"
-		uuid=$(/etc/v2ray-agent/v2ray/v2ctl uuid)
+		uuid=$(/etc/v2ray-agent/v2ray/v2ray uuid)
 	fi
 
 	rm -rf /etc/v2ray-agent/v2ray/conf/*
